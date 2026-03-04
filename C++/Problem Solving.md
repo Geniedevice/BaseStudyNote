@@ -8,3 +8,4 @@
 | **0x03** | [[PCCE 기출문제] 10번 / 공원](https://blog.naver.com/startblack7/224200275941) |
 | **0x04** | [[PCCE 기출문제] 9번 / 이웃한 칸](https://blog.naver.com/startblack7/224202234730) |
 | **0x05** | [[PCCE 기출문제] 10번 / 데이터 분석](https://blog.naver.com/startblack7/224202305297) |
+| **0x06** | [달리기 경주](https://blog.naver.com/startblack7/224204027529) |
