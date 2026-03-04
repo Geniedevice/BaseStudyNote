@@ -2,6 +2,13 @@
 
 안녕하세요! **게임 개발자**를 꿈꾸며 학습 여정을 기록하고 공유하는 공간입니다. 각 섹션에서 제가 공부하고 있는 주제와 유용한 자료들을 확인하실 수 있습니다. 함께 성장해나가요! 😊
 
+## 🧩 알고리즘 문제집 (BOJ)
+
+| 주제 | 링크 |
+| :--- | :--- |
+| **Unreal** | [Unreal StudyNote](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/Unreal.md) |
+| **C++** | [C++ 문제풀이](https://github.com/Geniedevice/BaseStudyNote/blob/main/C%2B%2B/Problem%20Solving.md) |
+
 ---
 
 ## 🎮 게임 개발 학습
