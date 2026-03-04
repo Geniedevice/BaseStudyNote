@@ -2,6 +2,6 @@
 
 | 번호 | 주제 |
 | :--- | :--- |
-| **0x00** | [UI Module](https://blog.naver.com/startblack7/224203079327) |
+| **0x00** | [UI Study](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/UI/UIStudyNote.md) |
 
 ---
