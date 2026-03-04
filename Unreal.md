@@ -1,4 +1,4 @@
-## 🧩 Unral Study Note (BOJ)
+## 🧩 Unral Study Note 
 
 | 번호 | 주제 |
 | :--- | :--- |
