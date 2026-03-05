@@ -10,5 +10,6 @@
 | **0x05** | [[PCCE 기출문제] 10번 / 데이터 분석](https://blog.naver.com/startblack7/224202305297) |
 | **0x06** | [달리기 경주](https://blog.naver.com/startblack7/224204027529) |
 | **0x07** | [추억 점수](https://blog.naver.com/startblack7/224204951112) |
-| **0x08** | [기초 문제풀이(연산자 활용)](https://blog.naver.com/startblack7/224204951112) |
+| **0x08** | [기초 문제풀이(1)](https://blog.naver.com/startblack7/224204951112) |
+| **0x09** | [기초 문제풀이(2)](https://blog.naver.com/startblack7/224204970843) |
 
