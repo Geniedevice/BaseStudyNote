@@ -18,3 +18,4 @@
 | **0x13** | [기초 문제풀이(6)](https://blog.naver.com/startblack7/224206369155) |
 | **0x14** | [바탕화면 그리기](https://blog.naver.com/startblack7/224206546745) |
 | **0x15** | [기초 문제풀이(7)](https://blog.naver.com/startblack7/224209620818) |
+| **0x16** | [덧칠하기](https://blog.naver.com/startblack7/224209668361) |
