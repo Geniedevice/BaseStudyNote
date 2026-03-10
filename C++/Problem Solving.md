@@ -20,3 +20,4 @@
 | **0x15** | [기초 문제풀이(7)](https://blog.naver.com/startblack7/224209620818) |
 | **0x16** | [덧칠하기](https://blog.naver.com/startblack7/224209668361) |
 | **0x17** | [기초 문제풀이(8)](https://blog.naver.com/startblack7/224210959090) |
+| **0x18** | [대충 만든 자판](https://blog.naver.com/startblack7/224211016500) |
