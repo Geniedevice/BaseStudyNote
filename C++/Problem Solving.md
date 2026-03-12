@@ -22,3 +22,5 @@
 | **0x17** | [기초 문제풀이(8주차차)](https://blog.naver.com/startblack7/224210959090) |
 | **0x18** | [대충 만든 자판](https://blog.naver.com/startblack7/224211016500) |
 | **0x19** | [카드뭉치](https://blog.naver.com/startblack7/224212285897) |
+| **0x20** | [크기가 작은 부분 문자자](https://blog.naver.com/startblack7/224213493771) |
+| **0x21** | [최소 직사각형](https://blog.naver.com/startblack7/224213540863) |
