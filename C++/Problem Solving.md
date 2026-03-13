@@ -24,3 +24,5 @@
 | **0x19** | [카드뭉치](https://blog.naver.com/startblack7/224212285897) |
 | **0x20** | [크기가 작은 부분 문자자](https://blog.naver.com/startblack7/224213493771) |
 | **0x21** | [최소 직사각형](https://blog.naver.com/startblack7/224213540863) |
+| **0x22** | [시저 암호](https://blog.naver.com/startblack7/224214765117) |
+| **0x23** | [숫자 문자열과 영단어](https://blog.naver.com/startblack7/224214804264) |
