@@ -26,3 +26,5 @@
 | **0x21** | [최소 직사각형](https://blog.naver.com/startblack7/224213540863) |
 | **0x22** | [시저 암호](https://blog.naver.com/startblack7/224214765117) |
 | **0x23** | [숫자 문자열과 영단어](https://blog.naver.com/startblack7/224214804264) |
+| **0x24** | [문자열 내 마음대로 정렬하기](https://blog.naver.com/startblack7/224217893875) |
+| **0x25** | [K번째 수](https://blog.naver.com/startblack7/224217919474) |
