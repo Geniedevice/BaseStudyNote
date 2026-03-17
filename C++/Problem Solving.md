@@ -28,3 +28,6 @@
 | **0x23** | [숫자 문자열과 영단어](https://blog.naver.com/startblack7/224214804264) |
 | **0x24** | [문자열 내 마음대로 정렬하기](https://blog.naver.com/startblack7/224217893875) |
 | **0x25** | [K번째 수](https://blog.naver.com/startblack7/224217919474) |
+| **0x26** | [개인정보 수집 유효기간](https://blog.naver.com/startblack7/224218158093) |
+| **0x27** | [두개 뽑아서 더하기](https://blog.naver.com/startblack7/224219300152) |
+| **0x28** | [가장 가까운 같은 문자](https://blog.naver.com/startblack7/224219345731) |
