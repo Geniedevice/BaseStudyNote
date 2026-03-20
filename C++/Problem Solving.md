@@ -31,3 +31,8 @@
 | **0x26** | [개인정보 수집 유효기간](https://blog.naver.com/startblack7/224218158093) |
 | **0x27** | [두개 뽑아서 더하기](https://blog.naver.com/startblack7/224219300152) |
 | **0x28** | [가장 가까운 같은 문자](https://blog.naver.com/startblack7/224219345731) |
+| **0x29** | [푸드 파이트 대회](https://blog.naver.com/startblack7/224220561384) |
+| **0x30** | [콜라 문제](https://blog.naver.com/startblack7/224220586755) |
+| **0x31** | [과일 장수](https://blog.naver.com/startblack7/224223137324) |
+| **0x32** | [모의 고사](https://blog.naver.com/startblack7/224223158452) |
+| **0x33** | [JadenCase 문자열 만들기](https://blog.naver.com/startblack7/224223220143) |
