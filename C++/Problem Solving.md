@@ -36,3 +36,5 @@
 | **0x31** | [과일 장수](https://blog.naver.com/startblack7/224223137324) |
 | **0x32** | [모의 고사](https://blog.naver.com/startblack7/224223158452) |
 | **0x33** | [JadenCase 문자열 만들기](https://blog.naver.com/startblack7/224223220143) |
+| **0x34** | [소수만들기](https://blog.naver.com/startblack7/224226208984) |
+| **0x35** | [기사단원의 무기](https://blog.naver.com/startblack7/224226237243) |
