@@ -38,3 +38,7 @@
 | **0x33** | [JadenCase 문자열 만들기](https://blog.naver.com/startblack7/224223220143) |
 | **0x34** | [소수만들기](https://blog.naver.com/startblack7/224226208984) |
 | **0x35** | [기사단원의 무기](https://blog.naver.com/startblack7/224226237243) |
+| **0x36** | [로또의 최고 순위와 최저 순위 ](https://blog.naver.com/startblack7/224227490542) |
+| **0x37** | [옹알이(2)](https://blog.naver.com/startblack7/224227585975) |
+| **0x38** | [숫자 짝꿍](https://blog.naver.com/startblack7/224228719818) |
+| **0x39** | [체육복 ](https://blog.naver.com/startblack7/224228780899) |
