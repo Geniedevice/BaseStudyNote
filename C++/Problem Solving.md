@@ -43,3 +43,9 @@
 | **0x38** | [숫자 짝꿍](https://blog.naver.com/startblack7/224228719818) |
 | **0x39** | [체육복](https://blog.naver.com/startblack7/224228780899) |
 | **0x40** | [문자열 나누기](https://blog.naver.com/startblack7/224229938362) |
+| **0x41** | [둘만의 암호](https://blog.naver.com/startblack7/224231116080) |
+| **0x42** | [햄버거 만들기](https://blog.naver.com/startblack7/224231151055) |
+| **0x43** | [성격 유형 검사하기](https://blog.naver.com/startblack7/224234015113) |
+| **0x44** | [공원 산책](https://blog.naver.com/startblack7/224235358269) |
+| **0x45** | [신고 결과 보기](https://blog.naver.com/startblack7/224238076891) |
+| **0x46** | [최댓값과 최솟값](https://blog.naver.com/startblack7/224238083020) |
