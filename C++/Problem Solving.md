@@ -49,3 +49,7 @@
 | **0x44** | [공원 산책](https://blog.naver.com/startblack7/224235358269) |
 | **0x45** | [신고 결과 보기](https://blog.naver.com/startblack7/224238076891) |
 | **0x46** | [최댓값과 최솟값](https://blog.naver.com/startblack7/224238083020) |
+| **0x47** | [이진 변환 반복하기기](https://blog.naver.com/startblack7/224242244878) |
+| **0x48** | [피보나치 수수](https://blog.naver.com/startblack7/224243525485) |
+| **0x49** | [예상 대진표](https://blog.naver.com/startblack7/224244849843) |
+| **0x50** | [카펫](https://blog.naver.com/startblack7/224246106608) |
