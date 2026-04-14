@@ -53,3 +53,7 @@
 | **0x48** | [피보나치 수수](https://blog.naver.com/startblack7/224243525485) |
 | **0x49** | [예상 대진표](https://blog.naver.com/startblack7/224244849843) |
 | **0x50** | [카펫](https://blog.naver.com/startblack7/224246106608) |
+| **0x51** | [N개의 최소 공배수](https://blog.naver.com/startblack7/224246125705) |
+| **0x52** | [멀리뛰기](https://blog.naver.com/startblack7/224247397580) |
+| **0x53** | [귤 고르기](https://blog.naver.com/startblack7/224250328682) |
+| **0x54** | [괄호 회전하기](https://blog.naver.com/startblack7/224251651506) |
