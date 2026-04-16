@@ -57,3 +57,5 @@
 | **0x52** | [멀리뛰기](https://blog.naver.com/startblack7/224247397580) |
 | **0x53** | [귤 고르기](https://blog.naver.com/startblack7/224250328682) |
 | **0x54** | [괄호 회전하기](https://blog.naver.com/startblack7/224251651506) |
+| **0x55** | [연속 부분 수열 합의 개수](https://blog.naver.com/startblack7/224252906630) |
+| **0x56** | [H-Index](https://blog.naver.com/startblack7/224254142403) |
