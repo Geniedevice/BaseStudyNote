@@ -59,3 +59,7 @@
 | **0x54** | [괄호 회전하기](https://blog.naver.com/startblack7/224251651506) |
 | **0x55** | [연속 부분 수열 합의 개수](https://blog.naver.com/startblack7/224252906630) |
 | **0x56** | [H-Index](https://blog.naver.com/startblack7/224254142403) |
+| **0x57** | [n^2 배열 자르기](https://blog.naver.com/startblack7/224255352249) |
+| **0x58** | [행렬의 곱셈](https://blog.naver.com/startblack7/224258372274) |
+| **0x59** | [저주의 숫자 3](https://blog.naver.com/startblack7/224258549465) |
+| **0x60** | [할인 행사](https://blog.naver.com/startblack7/224259628511) |
