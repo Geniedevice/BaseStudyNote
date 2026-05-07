@@ -68,3 +68,10 @@
 | **0x63** | [안전 지대](https://blog.naver.com/startblack7/224262286587) |
 | **0x64** | [프로세스](https://blog.naver.com/startblack7/224263361487) |
 | **0x65** | [피로도](https://blog.naver.com/startblack7/224266331297) |
+| **0x66** | [타겟 넘버](https://blog.naver.com/startblack7/224267609348) |
+| **0x67** | [k진수에서 소수 개수 구하기](https://blog.naver.com/startblack7/224268865647) |
+| **0x68** | [주차 요금 계산](https://blog.naver.com/startblack7/224270106315) |
+| **0x69** | [모음 사전](https://blog.naver.com/startblack7/224271317259) |
+| **0x70** | [뒤에 있는 큰 수 찾기](https://blog.naver.com/startblack7/224274016743) |
+| **0x71** | [롤 케이크 자르기](https://blog.naver.com/startblack7/224276179854) |
+| **0x72** | [숫자 변환하기](https://blog.naver.com/startblack7/224277374090) |
