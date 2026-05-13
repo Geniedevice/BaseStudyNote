@@ -75,3 +75,7 @@
 | **0x70** | [뒤에 있는 큰 수 찾기](https://blog.naver.com/startblack7/224274016743) |
 | **0x71** | [롤 케이크 자르기](https://blog.naver.com/startblack7/224276179854) |
 | **0x72** | [숫자 변환하기](https://blog.naver.com/startblack7/224277374090) |
+| **0x73** | [2개 이하로 다른 비트](https://blog.naver.com/startblack7/224278576218) |
+| **0x74** | [네트워크](https://blog.naver.com/startblack7/224279944336) |
+| **0x75** | [다리를 지나는 트럭](https://blog.naver.com/startblack7/224282628025) |
+| **0x76** | [가장 큰 수](https://blog.naver.com/startblack7/224283788502) |
