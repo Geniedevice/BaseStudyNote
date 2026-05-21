@@ -79,3 +79,10 @@
 | **0x74** | [네트워크](https://blog.naver.com/startblack7/224279944336) |
 | **0x75** | [다리를 지나는 트럭](https://blog.naver.com/startblack7/224282628025) |
 | **0x76** | [가장 큰 수](https://blog.naver.com/startblack7/224283788502) |
+| **0x77** | [소수 찾기](https://blog.naver.com/startblack7/224284980693) |
+| **0x78** | [쿼드 압축 후 개수 세기](https://blog.naver.com/startblack7/224286194549) |
+| **0x79** | [완전 탐색](https://blog.naver.com/startblack7/224287760235) |
+| **0x80** | [택배 상자](https://blog.naver.com/startblack7/224288781540) |
+| **0x81** | [큰 수 만들기](https://blog.naver.com/startblack7/224290718019) |
+| **0x82** | [삼각 달팽이](https://blog.naver.com/startblack7/224291821785) |
+| **0x83** | [연속된 부분 수열의 합](https://blog.naver.com/startblack7/224292074862) |
