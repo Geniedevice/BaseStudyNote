@@ -86,3 +86,9 @@
 | **0x81** | [큰 수 만들기](https://blog.naver.com/startblack7/224290718019) |
 | **0x82** | [삼각 달팽이](https://blog.naver.com/startblack7/224291821785) |
 | **0x83** | [연속된 부분 수열의 합](https://blog.naver.com/startblack7/224292074862) |
+| **0x84** | [두 큐의 합 같게 만들기](https://blog.naver.com/startblack7/224293127029) |
+| **0x85** | [단어 변환](https://blog.naver.com/startblack7/224294989358) |
+| **0x86** | [무인도 여행](https://blog.naver.com/startblack7/224296510083) |
+| **0x87** | [행렬 테두리 회전하기](https://blog.naver.com/startblack7/224298247238) |
+| **0x88** | [호텔 대실](https://blog.naver.com/startblack7/224298961377) |
+| **0x89** | [전력망을 둘로 나누기](https://blog.naver.com/startblack7/224302388345) |
