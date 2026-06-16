@@ -29,7 +29,7 @@
 | **0x24** | [방화벽](https://blog.naver.com/startblack7/224302506958) |
 | **0x25** | [레벨 전환](https://blog.naver.com/startblack7/224250576042) |
 | **0x26** | [Delegate란](https://blog.naver.com/startblack7/224279262429) |
-| **0x27** | [데이터 관리](https://blog.naver.com/startblack7/224286422465 |
+| **0x27** | [데이터 관리](https://blog.naver.com/startblack7/224286422465) |
 | **0x28** | [WorldSubsystem](https://blog.naver.com/startblack7/224293855625) |
 | **0x29** | [FString/FText/FName](https://blog.naver.com/startblack7/224300414742) |
 | **0x30** | [RPC](https://blog.naver.com/startblack7/224303096095) |
