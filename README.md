@@ -9,6 +9,8 @@
 | **Unreal** | [Unreal StudyNote](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/Unreal.md) |
 | **C++** | [C++ 문제풀이](https://github.com/Geniedevice/BaseStudyNote/blob/main/C%2B%2B/Problem%20Solving.md) |
 | **Assignment** | [Assignment](https://github.com/Geniedevice/BaseStudyNote/blob/main/Assignment/Assignment.md) |
+| **CS Study** | [CS](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/Study/StudyNote.md) |
+
 
 ---
 
