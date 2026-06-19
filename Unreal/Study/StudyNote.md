@@ -40,3 +40,4 @@
 | **0x35** | [UE RTTI](https://blog.naver.com/startblack7/224313189216) |
 | **0x36** | [스마트 포인터](https://blog.naver.com/startblack7/224316170778) |
 | **0x37** | [GameThread, RenderThread, RHIThread](https://blog.naver.com/startblack7/224317379929) |
+| **0x38** | [UActorComponent/USceneComponent/UPrimitiveComponent의 차이](https://blog.naver.com/startblack7/224317379929) |
