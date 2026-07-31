@@ -8,8 +8,10 @@
 | :--- | :--- |
 | **Unreal** | [Unreal StudyNote](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/Unreal.md) |
 | **C++** | [C++ 문제풀이](https://github.com/Geniedevice/BaseStudyNote/blob/main/C%2B%2B/Problem%20Solving.md) |
+| **오답노트** | [오답노트](https://github.com/Geniedevice/BaseStudyNote/blob/main/C%2B%2B/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md) |
 | **Assignment** | [Assignment](https://github.com/Geniedevice/BaseStudyNote/blob/main/Assignment/Assignment.md) |
 | **CS Study** | [CS](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/Study/StudyNote.md) |
+| **트러블 슈팅** | [TroubleShooting](https://github.com/Geniedevice/BaseStudyNote/blob/main/Unreal/TroubleShooting.md) |
 
 
 ---
