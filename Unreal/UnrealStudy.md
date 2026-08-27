@@ -39,5 +39,16 @@
 | **0x34** | [언리얼 엔진 탐구(63) - Gears of Deceit - WorldSubSystem을 통한 GAS시스템 통합](https://blog.naver.com/startblack7/224354729321) |
 | **0x35** | [언리얼 엔진 탐구(64) - Gears of Deceit - Stream OSS 기반 멀티 셰션](https://blog.naver.com/startblack7/224355773944) |
 | **0x36** | [언리얼 엔진 탐구(65) - ( Check / Verify / Ensure )](https://blog.naver.com/startblack7/224360979685) |
+| **0x37** | [언리얼 엔진 탐구(66) - ( 최적화 )](https://blog.naver.com/startblack7/224364215282) |
+| **0x38** | [언리얼 엔진 탐구(67) - ( 타이밍 이슈 )](https://blog.naver.com/startblack7/224367134864) |
+| **0x39** | [언리얼 엔진 탐구(68) - ( Primitive 조합을 통한 연출 구현 )](https://blog.naver.com/startblack7/224369187359) |
+| **0x40** | [언리얼 엔진 탐구(69) - 카드 연출(Dynamic Material Instance)](https://blog.naver.com/startblack7/224370473451) |
+| **0x41** | [언리얼 엔진 탐구(70) - Mass Entity](https://blog.naver.com/startblack7/224375576291) |
+| **0x42** | [언리얼 엔진 탐구(71) - Mass Entity(2) - Processor](https://blog.naver.com/startblack7/224376757431) |
+| **0x43** | [언리얼 엔진 탐구(72) - Mass Entity(3) - UTickableWorldSubsystem와 작동 방식](https://blog.naver.com/startblack7/224377898954) |
+| **0x44** | [언리얼 엔진 탐구(73) - Mass Entity(4) - MassEntity의 Animation 작동방식](https://blog.naver.com/startblack7/224378559924) |
+| **0x45** | [언리얼 엔진 탐구(73) - Mass Entity(5) - Rader만들기](https://blog.naver.com/startblack7/224384868670) |
+| **0x46** | [언리얼 엔진 탐구(74) - Mass Entity(6) - TransfromFragment기반 미니맵](https://blog.naver.com/startblack7/224385949452) |
+| **0x47** | [언리얼 엔진 탐구(75) - 로우폴리 라이팅](https://blog.naver.com/startblack7/224391284637) |
 
 ---

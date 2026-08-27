@@ -53,3 +53,5 @@
 | **0x48** | [CS Study - memory barrier 와 memory leak 확인 방법](https://blog.naver.com/startblack7/224340090792) |
 | **0x49** | [CS Study - 부동 소수점](https://blog.naver.com/startblack7/224341204868) |
 | **0x50** | [CS Study - 알고리즘](https://blog.naver.com/startblack7/224363180812) |
+| **0x51** | [CS Study - 실전 알고리즘](https://blog.naver.com/startblack7/224378344349) |
+| **0x52** | [CS Study - 디자인 패턴](https://blog.naver.com/startblack7/224388338048) |

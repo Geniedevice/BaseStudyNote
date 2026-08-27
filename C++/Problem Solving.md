@@ -127,3 +127,6 @@
 | **0x122** | [프로그래머 문제풀이(102) - 숫자게임](https://blog.naver.com/startblack7/224354109806) |
 | **0x123** | [리트 코드 - 다익스트라](https://blog.naver.com/startblack7/224361668954) |
 | **0x124** | [프로그래머스 문제풀이(103) - 최고의 집합](https://blog.naver.com/startblack7/224363574762) |
+| **0x125** | [프로그래머스 문제풀이(33) - 2016년](https://blog.naver.com/startblack7/224221891697) |
+| **0x126** | [프로그래머스 문제풀이(32) - 명예의 전당](https://blog.naver.com/startblack7/224221852827) |
+| **0x127** | [프로그래머스 문제풀이(104) - 스티커 모으기](https://blog.naver.com/startblack7/224384800257) |
